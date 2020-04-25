@@ -17,7 +17,7 @@ Tracking and maintenance on test automation are so important. To make easier thi
 * Create an additional build step on your build configuration. Select the Runner type as PowerShell.
 * Select "Even if some of the previous steps failed" as Execute step.
 * Select the source code on Script dropdown list.
-* Copy the PowerShell script (AutoFogBugz.ps1) and paste on Script source place.
+* Copy the PowerShell script (auto-fogbugz.ps1) and paste on Script source place.
 * Define the variables on Script arguments.
 ![](/powershell-variables.png)
 
